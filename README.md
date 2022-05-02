@@ -1,6 +1,6 @@
 # dev-base
 
-The base image definition for all heekim1 docker images. The Docker images are mostly used by Nextflow-based pipelines that the Bioinformatics team runs for analysis as well as product development. 
+The base image definition for all heekim1 docker images. The Docker images are mostly used by Nextflow-based pipelines that the Bioinformatics team runs for analysis as well as product development. Theis is the base image for other sub components.
 
 ## OS Upgrade Procedure
 
