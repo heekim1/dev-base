@@ -18,4 +18,4 @@ Steps to upgrade the base Docker image OS:
 * Follow instructions on that repository to continue to the next steps
 
 ##
-test-prcheck5
+test-prcheck6
