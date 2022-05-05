@@ -17,5 +17,3 @@ Steps to upgrade the base Docker image OS:
 * After the Docker image has been deployed, you will need to update the *wrapper definition* of the base image available [here]()
 * Follow instructions on that repository to continue to the next steps
 
-##
-test-prcheck6
